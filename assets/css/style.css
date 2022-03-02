@@ -1,0 +1,44 @@
+* {
+    font-family: "Georgia", "Garamond", serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+
+body {
+  background-color: lemonchiffon;
+}
+
+header {
+    padding: 20px;
+    background-color: lightsalmon;
+    color: #ffffff;
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
