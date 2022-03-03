@@ -9,7 +9,7 @@ article, aside, figure, figcaption, footer, header, nav, section
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
+	font-size: 40px;
 	font: inherit;
 	vertical-align: baseline;
 }
